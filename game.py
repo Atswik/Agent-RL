@@ -176,8 +176,8 @@ class Player:
 
 # * Main functions
 def main():
-   player1 = Player("Human", "Agent", 0.00) # O
-   player2 = Player("Agent", "Human", 0.00) # X
+   player1 = Player("Human", "Human", 0.00) # O
+   player2 = Player("Agent", "Agent", 0.00) # X
    players = [player1, player2]
 
    game = Game(players)
