@@ -1,17 +1,10 @@
-# 🧠 Tic-Tac-Toe AI Agent (Reinforcement Learning)
+# Tic-Tac-Toe Agent (Reinforcement Learning)
 
-An unbeatable AI agent that plays Tic-Tac-Toe using **Reinforcement Learning**. Trained with a Q-table to learn optimal strategies through self-play, this project includes a real-time interactive UI built with **Pygame**. 
+A simple yet unbeatable AI agent that plays Tic-Tac-Toe using **Reinforcement Learning**. Trained with a Q-table to learn optimal strategies through self-play, this project includes a real-time interactive UI built with **Pygame**. 
 
 Developed and trained in **Python** using **Google Colab**.
 
-## Features
-
-* 🧠 **Reinforcement Learning** with a Q-table to master Tic-Tac-Toe
-* 🕹️ **Interactive gameplay** against a trained agent using Pygame
-* 🥇 AI learns through self-play and converges to an optimal (unbeatable) strategy
-* ☁️ Training and experimentation in **Google Colab**
-
-## 🚀 Getting Started
+## 🕹️ Try it out
 
 ### 1. Clone the Repository
 
