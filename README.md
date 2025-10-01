@@ -9,8 +9,8 @@ Developed and trained in **Python** using **Google Colab**.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Atswik/Simple-RL-Agent.git
-cd Simple-RL-Agent
+git clone https://github.com/Atswik/Agent-RL.git
+cd Agent-RL
 ```
 
 ### 2. Install Dependencies
