@@ -27,7 +27,7 @@ HIGHLIGHT_COLOR = (0, 255, 0, 45)
 highlight_surface = pxl.Surface((SQUARE_SIZE, SQUARE_SIZE), pxl.SRCALPHA)
 
 screen = pxl.display.set_mode((WIDTH, HEIGHT))
-pxl.display.set_caption('TIC-TAC-TOE')
+pxl.display.set_caption('TIC-TAC-TOE - Press R to restart the game.')
 screen.fill(BG_COLOR)
 
 class Game:
@@ -181,6 +181,7 @@ def main():
    players = [player1, player2]
 
    game = Game(players)
+   print("Press 'R' to restart the game.")
 
    running = True
    while running:
